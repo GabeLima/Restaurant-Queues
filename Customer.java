@@ -1,5 +1,3 @@
-package HW4;
-// Gabriello Lima, 112803276, R01
 public class Customer extends Restaurant {
 	private static int totalCustomers;
 	private int orderNumber;
